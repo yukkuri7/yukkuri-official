@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-P2Xu9kJm.js";console.log(`Welcome to Yumi Portfolio`);
