@@ -208,6 +208,9 @@ a {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .hero {
+    background-attachment: scroll;
+  }
   .hero-title {
     font-size: 2rem;
   }
